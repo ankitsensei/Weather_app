@@ -30,7 +30,7 @@
 ### How to Use the App:🚀
 
 1. **Open the App:** ✨
-Start by opening the weather app on your device.
+   Start by opening the weather app on your device.
 2. **Search for a City:** ✨
     - Type the name of the city you want to check the weather for into the search box.
     - Click the search button next to the search box.
@@ -41,4 +41,3 @@ Start by opening the weather app on your device.
     - If the city name you entered is incorrect or not found, an error message will appear. Simply try again with a different or corrected city name.
 
 🔴 This weather app makes it easy and convenient to stay updated with the current weather conditions for any city, with clear visuals and real-time data.
-# Weather_app
